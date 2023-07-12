@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DharshanShankar
-- 👀 I’m interested in ... web designing
-- 🌱 I’m currently learning ... full stack web development
-- 💞️ I’m looking to collaborate on ... web desining projects
+- 👀 I’m interested in ... Developing
+- 🌱 I’m currently learning ... java
+- 💞️ I’m looking to collaborate on ... java projects
 - 📫 How to reach me ... Email me @dharshanshankar4536@gmail.com
 
 <!---
